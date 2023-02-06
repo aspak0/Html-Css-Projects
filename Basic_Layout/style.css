@@ -1,0 +1,60 @@
+.layout1 {
+  border: 1px solid black;
+  width: 98.7%;
+  height: 80px;
+}
+.layout2 {
+  border: 1px solid black;
+  width: 20%;
+  height: 500px;
+  float: left;
+}
+.layout3 {
+  border: 1px solid black;
+  width: 78.5%;
+  height: 500px;
+  float: left;
+}
+.layout4 {
+  border: 1px solid blue;
+  width: 90%;
+  height: 80px;
+  margin-top: 20px;
+  margin-left: 5%;
+}
+.layout5 {
+  border: 1px solid blue;
+  width: 40%;
+  height: 35px;
+  margin-top: 10px;
+  margin-left: 5%;
+  float: left;
+}
+.layout6 {
+  border: 1px solid blue;
+  width: 40%;
+  height: 35px;
+  margin-top: 10px;
+  margin-left: 55%;
+}
+.box-layout {
+  border: 1px solid red;
+  width: 26.5%;
+  height: 120px;
+  margin-top: 20px;
+  margin-left: 5%;
+  float: left;
+}
+.layout7 {
+  border: 1px solid blue;
+  width: 90%;
+  height: 30px;
+  margin-top: 290px;
+  margin-left: 5%;
+}
+.layout8 {
+  border: 1px solid black;
+  width: 98.7%;
+  height: 80px;
+  margin-top: 500px;
+}
